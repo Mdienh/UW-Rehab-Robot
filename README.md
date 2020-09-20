@@ -1,1 +1,1 @@
-# StrokeRehabRobotCapstone
+# UW Rehab Robot
